@@ -1,6 +1,6 @@
 # Understanding Interviews and Preparation
 
-![Interview Preparation](images/interviewer and interviewee.jpg)
+![Interview Preparation](images/interview.jpg)
 
 ## What are Interviews?
 
