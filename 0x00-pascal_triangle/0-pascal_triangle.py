@@ -1,7 +1,9 @@
+#!/usr/bin/python3
 """ Recreating the pascal's triangle, but with code, let's have fun """
 
 
 def pascal_triangle(n):
+    """ Function that returns the computed pascal triangle """
     if n <= 0:
         return []
     outer = []
